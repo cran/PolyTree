@@ -1,0 +1,14 @@
+citHeader("To cite the methods in the package 'PolyTree' in publications, please cite the following:")
+
+bibentry(
+  bibtype = "Misc",
+  title = "Estimating large causal polytrees from small samples",
+  author = "Sourav Chatterjee and Mathukumalli Vidyasagar",
+  journal = "arXiv",
+  year = "2022",
+  url = "https://arxiv.org/abs/2209.07028",
+  note = "arXiv:2209.07028",
+  textVersion = "Sourav Chatterjee and Mathukumalli Vidyasagar (2022). Estimating large causal polytrees from small samples. arXiv:2209.07028 [Preprint]. Available at https://arxiv.org/abs/2209.07028"
+)
+
+citFooter("Additionally, please cite the 'PolyTree' package:")
